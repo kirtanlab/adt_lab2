@@ -1,5 +1,5 @@
 -- Connect to SQL Server in Docker
--- First, let's create the required database (replace FirstName with your name)
+-- First, let's create the required database (replace Kirtan with your name)
 CREATE DATABASE KirtanADTLab3;
 GO
 
